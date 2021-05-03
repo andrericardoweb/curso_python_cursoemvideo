@@ -1,0 +1,10 @@
+# Exercício Python 004: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+value = input('Digite um valor: ')
+print(f'O tipo primitivo desse valor é {type(value)}')
+print(f'Só tem espaços? {value.isspace()}')
+print(f'É um número? {value.isnumeric()}')
+print(f'É alfabético? {value.isalpha()}')
+print(f'É alfanumérico? {value.isalnum()}')
+print(f'Está em maiúsculo? {value.isupper()}')
+print(f'Está em minúscula? {value.islower()}')
+print(f'Está capitalizaza? {value.istitle()}')
