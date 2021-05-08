@@ -12,3 +12,5 @@
  9. Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
  10. Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
  11. Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
+ 12. Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+ 13. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
