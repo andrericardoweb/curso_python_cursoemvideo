@@ -10,3 +10,4 @@
  7. Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
  8. Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
  9. Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+ 10. Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
