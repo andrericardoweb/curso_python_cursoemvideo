@@ -6,3 +6,4 @@
  3. Crie um programa que leia dois números e mostre a soma entre eles
  4. Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
  5. Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
+ 6. Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
