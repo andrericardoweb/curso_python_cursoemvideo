@@ -14,3 +14,4 @@
  11. Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
  12. Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
  13. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+ 14. Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
